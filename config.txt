@@ -1,0 +1,7 @@
+{
+# 微信公众号配置
+"app_id": "xx",
+"app_secret": "xx",
+"template_id": "xx",
+"user": [ "xx"], # 接收消息的微信号，多个微信用英文逗号间隔，例如["wx1", "wx2"]
+}
